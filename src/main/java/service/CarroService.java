@@ -1,4 +1,5 @@
 package service;
+import model.Carro;
 
 public class CarroService {
     List<Carro> listaCarros;
