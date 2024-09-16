@@ -6,8 +6,8 @@ import lombok.Setter;
 @Getter
 @Setter
 public class Carro {
-    int id;
-    String modelo;
-    String placa;
-    String chassi;
+    private int id;
+    private String modelo;
+    private String placa;
+    private String chassi;
 }

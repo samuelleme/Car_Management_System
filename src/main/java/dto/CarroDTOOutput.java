@@ -6,7 +6,7 @@ import lombok.Setter;
 @Getter
 @Setter
 public class CarroDTOOutput {
-    int id;
-    String modelo;
-    String placa;
+    private int id;
+    private String modelo;
+    private String placa;
 }
