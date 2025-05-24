@@ -38,7 +38,7 @@ The API exposes **CRUD** (Create, Read, Update, Delete) operations for cars:
 2. **Clone & build**
 
    ```bash
-   git clone https://github.com/your-user/your-repo.git
+   git clone https://github.com/samuelleme/Car_Management_System.git
    cd your-repo
    mvn clean package
    ```
